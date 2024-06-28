@@ -28,7 +28,7 @@ const projects = [
       { name: "ExpressJs" },
       { name: "VueJs" },
     ],
-    image: "/assets/work/curseek.png",
+    image: "/assets/work/CurSeek.png",
     github: "https://github.com/Jairo2santos/curseek",
     live: "https://curseek.com",
   },
@@ -39,7 +39,7 @@ const projects = [
     description:
       "This is a development of a web scrapper to obtain large scale information to keep a course database up to date, for the Curseek platform.",
     stack: [{ name: "JavaScript" }, { name: "Puppeter" }, { name: "MongoDb" }],
-    image: "/assets/work/Scrapper.png",
+    image: "/assets/work/scrapper.png",
     github: "https://github.com/Jairo2santos/scrapercurseek",
     live: "https://curseek.com",
   },
@@ -56,7 +56,7 @@ const projects = [
       { name: "KeywordTool.io" },
     ],
     image: "/assets/work/ProcrastinaFácil.png",
-    github: "",
+   
     live: "https://procrastinafacil.com",
   },
 ];
