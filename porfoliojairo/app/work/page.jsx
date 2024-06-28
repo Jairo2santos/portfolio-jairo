@@ -56,7 +56,7 @@ const projects = [
       { name: "KeywordTool.io" },
     ],
     image: "/assets/work/ProcrastinaFácil.png",
-   
+    github: "",
     live: "https://procrastinafacil.com",
   },
 ];
